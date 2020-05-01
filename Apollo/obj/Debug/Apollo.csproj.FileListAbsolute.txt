@@ -1,0 +1,56 @@
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\bin\Debug\Apollo.exe.config
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\obj\Debug\Apollo.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\obj\Debug\Apollo.principal.resources
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\obj\Debug\Apollo.Properties.Resources.resources
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\obj\Debug\Apollo.csproj.GenerateResource.Cache
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\Henrique Mark\Desktop\Projeto 3ANO\Teste C#\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\bin\Debug\Apollo.exe.config
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\obj\Debug\Apollo.csprojResolveAssemblyReference.cache
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\obj\Debug\Apollo.principal.resources
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\obj\Debug\Apollo.Properties.Resources.resources
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\obj\Debug\Apollo.csproj.GenerateResource.Cache
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\bin\Debug\ZedGraph.dll
+C:\Users\3AEMAQ02\Desktop\Apollo\Apollo\obj\Debug\Apollo.csproj.Apollo.exe.config
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\bin\Debug\Apollo.exe.config
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\bin\Debug\ZedGraph.dll
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\obj\Debug\Apollo.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\obj\Debug\Apollo.csproj.Apollo.exe.config
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\obj\Debug\Apollo.principal.resources
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\obj\Debug\Apollo.Properties.Resources.resources
+C:\Users\Henrique Mark\Desktop\Apollo\Apollo\obj\Debug\Apollo.csproj.GenerateResource.Cache
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\bin\Debug\Apollo.exe.config
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.exe
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.pdb
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\bin\Debug\Apollo.exe
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\bin\Debug\Apollo.pdb
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\bin\Debug\ZedGraph.dll
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.csproj.Apollo.exe.config
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.principal.resources
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.Properties.Resources.resources
+C:\Users\Henrique Mark\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.csproj.GenerateResource.Cache
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\bin\Debug\Apollo.exe.config
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.exe
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.pdb
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\bin\Debug\Apollo.exe
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\bin\Debug\Apollo.pdb
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\bin\Debug\ZedGraph.dll
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.csproj.Apollo.exe.config
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.principal.resources
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.Properties.Resources.resources
+C:\Users\Rafael\Desktop\ApolloV2\Apollo\obj\Debug\Apollo.csproj.GenerateResource.Cache
+F:\ApolloV2\Apollo\bin\Debug\Apollo.exe.config
+F:\ApolloV2\Apollo\obj\Debug\Apollo.exe
+F:\ApolloV2\Apollo\obj\Debug\Apollo.pdb
